@@ -59,7 +59,8 @@ Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için
 | TorrentFilm | Altyazılı gerçek 4K çözünürlükteki filmler | Aktif |
 | Dizilla | Popüler yabancı diziler | Aktif |
 | YerelProgramlar | Popüler, güncel yerel tv programları | Aktif |
-| SSportPlus | SSportPlus arşiv ve canlı yayınlar | Aktif |
+| SSportPlus | SSportPlus arşiv ve canlı yayınlar | Aktif değil(hesap sorunları nedeniyle kapalı) |
+| AsyaWatch | Popüler Asya içerikleri ve diziler | Aktif |
 
 ## Not
 Yurtdışından eklenti içerikleri yüklenmeyebilir. Eklediğim kaynakların bazıları yurtdışı IP'lerine hizmet vermemektedir. O yüzden bir içeriği yüklerken hata alıyorsanız öncelikle VPN açık mı diye kontrol edin. İyi seyirler.
