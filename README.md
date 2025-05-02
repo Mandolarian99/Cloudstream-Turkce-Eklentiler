@@ -19,6 +19,8 @@ Cloudstream kullanırken en büyük sorun içerik kaynaklarının sistemlerini d
 Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için bile issue açabilirsiniz. Repository'e yıldız atıp, sohbet odamıza katılmayı unutmayınız.
 
 ## Son Güncellemeler
+2 Mayıs - AsyaWatch.com eklentilere eklendi.
+
 27 Nisan - Tabii hesap sorunları nedeniyle kapatıldı. (Çok fazla cihaz üzerinden kullanıldığı için hesaplar banlanıyor. Durum bu olunca ne zamana kadar kapalı olur bilemem. Bundan sonra amacım biraz daha güvenli olan ve hesap gerektirmeyen kaynakların eklentilerini oluşturmak.)
 
 26 Nisan - Tabii küçük hata düzeltmeleri. (Kapatıldı)
@@ -34,14 +36,6 @@ Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için
 21 Nisan - WebDramaTurkey eklentisi yayınlanmıştır. Artık asya içeriklerine ulaşmak kolaylaştı.
 
 20 Nisan - Canlı TV eklentisi yayınlanmıştır.
-
-20 Nisan - ÇizgiveDizi eklentisi yayınlanmıştır.
-
-19 Nisan - TRT 1 Dizileri Yerel Diziler Eklentisine dahil edildi. (Kapatıldı)
-
-19 Nisan - Yerel Diziler eklentisine arama fonksiyonu getirildi. 
-
-19 Nisan - Tabii eklentisine arama fonksiyonu getirildi. (Kapatıldı)
 
 ## 📦 Kullanıma Hazır Eklentiler
 | Eklenti | İçerik | Durum |
