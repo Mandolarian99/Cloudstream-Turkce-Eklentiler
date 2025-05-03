@@ -19,6 +19,8 @@ Cloudstream kullanırken en büyük sorun içerik kaynaklarının sistemlerini d
 Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için bile issue açabilirsiniz. Repository'e yıldız atıp, sohbet odamıza katılmayı unutmayınız.
 
 ## Son Güncellemeler
+3 Mayıs - AsyaAnimeleri.top eklentilere eklendi. Artık dongualara daha rahat erişim sağlanabilecek.
+
 2 Mayıs - AsyaWatch.com eklentilere eklendi.
 
 27 Nisan - Tabii hesap sorunları nedeniyle kapatıldı. (Çok fazla cihaz üzerinden kullanıldığı için hesaplar banlanıyor. Durum bu olunca ne zamana kadar kapalı olur bilemem. Bundan sonra amacım biraz daha güvenli olan ve hesap gerektirmeyen kaynakların eklentilerini oluşturmak.)
@@ -35,8 +37,6 @@ Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için
 
 21 Nisan - WebDramaTurkey eklentisi yayınlanmıştır. Artık asya içeriklerine ulaşmak kolaylaştı.
 
-20 Nisan - Canlı TV eklentisi yayınlanmıştır.
-
 ## 📦 Kullanıma Hazır Eklentiler
 | Eklenti | İçerik | Durum |
 |---------|----------|--------|
@@ -46,7 +46,7 @@ Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için
 | Animecix | Japon animeleri ve anime filmleri | Aktif |
 | Sinewix | Popüler yabancı tv dizileri ve filmler | Aktif |
 | YerelDiziler | Türkiyede yayınlanan yerel popüler diziler | Aktif |
-| Tabii | Trt 1 içerikleri, yerli dizi, film, belgesel, çizgi filmler | Aktif değil(hesap sorunları nedeniyle kapattım) |
+| Tabii | Trt 1 içerikleri, yerli dizi, film, belgesel, çizgi filmler | Sadece youtube videosu çekip paylaşanlara veriyorum |
 | CizgiVeDizi | Popüler çizgi filmler ve yabancı diziler | Aktif |
 | CanliYayinlar | HD canlı yayın ulusal kanallar | Aktif |
 | WebDramaTurkey | Popüler Asya içerikleri, diziler ve programlar | Aktif |
@@ -55,6 +55,7 @@ Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için
 | YerelProgramlar | Popüler, güncel yerel tv programları | Aktif |
 | SSportPlus | SSportPlus arşiv ve canlı yayınlar | Aktif değil(hesap sorunları nedeniyle kapalı) |
 | AsyaWatch | Popüler Asya içerikleri ve diziler | Aktif |
+| AsyaAnimeleri | Donghuaların bulunduğu anime kaynağımız | Aktif |
 
 ## Not
 Yurtdışından eklenti içerikleri yüklenmeyebilir. Eklediğim kaynakların bazıları yurtdışı IP'lerine hizmet vermemektedir. O yüzden bir içeriği yüklerken hata alıyorsanız öncelikle VPN açık mı diye kontrol edin. İyi seyirler.
