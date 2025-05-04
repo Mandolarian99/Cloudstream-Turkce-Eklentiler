@@ -57,5 +57,13 @@ Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için
 | <p align="center"><img src="https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/refs/heads/main/assets/asyawatch-logo.png" alt="AsyaWatch" width="40" /><br>AsyaWatch</p> | Popüler Asya içerikleri ve diziler | Aktif |
 | <p align="center"><img src="https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/blob/main/assets/asyaanimeleri-logo.png?raw=true" alt="AsyaAnimeleri" width="40" /><br>AsyaAnimeleri</p> | Donghuaların bulunduğu anime kaynağımız | Aktif |
 
+## Yol Haritası
+Planladığım ve yapmak istediğim şeyler:
+1. Bütün eklentilerdeki canlı yayınları ve kaynaklarını tek eklenti altında toplamak. Mesela RecTV, İnatTv bunların canlı yayın kısımlarında bulunan kanalları tek çatı altında toplamak istiyorum. Örneğin Trt 1 açmak istediğimde yalnızca 1 tane kanal olacak ve o kanalın altına İnattır, RecTv'dir Trt 1 canlı yayınları kaynak olarak gelecek. Böylece canlı yayınlar için bir tanesinde çalışmayan yayın, diğeri için de denenebilecek. Birden fazla kaynak deneyerek yayınların her zaman açılmasını sağlamak istiyorum.
+2. Kanal 7 dizilerini eklenti haline getirmek istiyorum. Bunun dışında daha yapmadığım kanal varsa onları da eklenti haline getirmek istiyorum.
+
+## Destek Ol
+Burada destek olabilmeniz için birkaç tane wallet adresi paylaşacağım.
+
 ## Not
 Yurtdışından eklenti içerikleri yüklenmeyebilir. Eklediğim kaynakların bazıları yurtdışı IP'lerine hizmet vermemektedir. O yüzden bir içeriği yüklerken hata alıyorsanız öncelikle VPN açık mı diye kontrol edin. İyi seyirler.
