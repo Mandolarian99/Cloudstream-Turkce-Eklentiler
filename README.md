@@ -40,16 +40,16 @@ Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için
 ## 📦 Kullanıma Hazır Eklentiler
 | Eklenti | İçerik | Durum |
 |---------|----------|--------|
-| <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png" alt="InatBox" height="20"/> InatBox | Canlı yayınlar(Spor, Ulusal), popüler tv dizileri ve filmler | Aktif |
-| <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Frectv.org.tr%2Fwp-content%2Fuploads%2F2024%2F11%2Frectv-modified.webp&f=1&nofb=1&ipt=243a15ba76473d64233d0a6be6c338aa6a15f4ced36db7b11c9a4f924b036e9d" alt="RecTV" height="20"/> Rec Tv | Canlı yayınlar(Spor, Ulusal), popüler tv dizileri ve filmler | Aktif |
+| <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png" alt="InatBox" height="40"/> InatBox | Canlı yayınlar(Spor, Ulusal), popüler tv dizileri ve filmler | Aktif |
+| <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Frectv.org.tr%2Fwp-content%2Fuploads%2F2024%2F11%2Frectv-modified.webp&f=1&nofb=1&ipt=243a15ba76473d64233d0a6be6c338aa6a15f4ced36db7b11c9a4f924b036e9d" alt="RecTV" height="40"/> Rec Tv | Canlı yayınlar(Spor, Ulusal), popüler tv dizileri ve filmler | Aktif |
 |  GolgeTV | Canlı yayınlar(Spor) | Aktif değil(bakım çalışmasında) |
-| <img src="https://www.google.com/s2/favicons?domain=animecix.net&sz=64" alt="AnimeciX" height="20"/> Animecix | Japon animeleri ve anime filmleri | Aktif |
-| <img src="https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX" alt="SineWix" height="20"/> Sinewix | Popüler yabancı tv dizileri ve filmler | Aktif |
-| <img src="https://png.pngtree.com/png-clipart/20220823/ourmid/pngtree-turkey-country-flag-pin-icon-png-image_6120061.png" alt="YerelDiziler" height="20"/> YerelDiziler | Türkiyede yayınlanan yerel popüler diziler | Aktif |
+| <img src="https://www.google.com/s2/favicons?domain=animecix.net&sz=64" alt="AnimeciX" height="40"/> Animecix | Japon animeleri ve anime filmleri | Aktif |
+| <img src="https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX" alt="SineWix" height="40"/> Sinewix | Popüler yabancı tv dizileri ve filmler | Aktif |
+| <img src="https://png.pngtree.com/png-clipart/20220823/ourmid/pngtree-turkey-country-flag-pin-icon-png-image_6120061.png" alt="YerelDiziler" height="40"/> YerelDiziler | Türkiyede yayınlanan yerel popüler diziler | Aktif |
 | Tabii | Trt 1 içerikleri, yerli dizi, film, belgesel, çizgi filmler | Sadece youtube videosu çekip paylaşanlara veriyorum |
 | <img src="https://cizgivedizi.com/Logo.png" alt="CizgiVeDizi" height="20"/> CizgiVeDizi | Popüler çizgi filmler ve yabancı diziler | Aktif |
-| <img src="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" alt="CanliTv" height="20"/> CanliYayinlar | HD canlı yayın ulusal kanallar | Aktif |
-| <img src="https://webdramaturkey.org/public/static/logo.webp?v=1.0.19" alt="WebDramaTurkey" height="20"/> WebDramaTurkey | Popüler Asya içerikleri, diziler ve programlar | Aktif |
+| <img src="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" alt="CanliTv" height="40"/> CanliYayinlar | HD canlı yayın ulusal kanallar | Aktif |
+| <img src="https://webdramaturkey.org/public/static/logo.webp?v=1.0.19" alt="WebDramaTurkey" height="40"/> WebDramaTurkey | Popüler Asya içerikleri, diziler ve programlar | Aktif |
 | TorrentFilm | Altyazılı gerçek 4K çözünürlükteki filmler | Aktif |
 | Dizilla | Popüler yabancı diziler | Aktif |
 | YerelProgramlar | Popüler, güncel yerel tv programları | Aktif |
