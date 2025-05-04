@@ -55,7 +55,7 @@ Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için
 | <p align="center"><img src="https://png.pngtree.com/png-clipart/20220823/ourmid/pngtree-turkey-country-flag-pin-icon-png-image_6120061.png" alt="YerelProgramlar" width="40" /><br>YerelProgramlar</p> | Popüler, güncel yerel tv programları | Aktif |
 | <p align="center"><img src="https://www.turksatkablo.com.tr/images/icerik/ssportplus.png" alt="SSportPlus" width="40" /><br>SSportPlus</p> | SSportPlus arşiv ve canlı yayınlar | Aktif değil(hesap sorunları nedeniyle kapalı) |
 | <p align="center"><img src="https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/refs/heads/main/assets/asyawatch-logo.png" alt="AsyaWatch" width="40" /><br>AsyaWatch</p> | Popüler Asya içerikleri ve diziler | Aktif |
-| <p align="center"><img src="https://asyaanimeleri.top/wp-content/uploads/2021/08/Asya-animeleri-12-e1629130525708.png" alt="AsyaAnimeleri" width="40" /><br>AsyaAnimeleri</p> | Donghuaların bulunduğu anime kaynağımız | Aktif |
+| <p align="center"><img src="https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/blob/main/assets/asyaanimeleri-logo.png?raw=true" alt="AsyaAnimeleri" width="40" /><br>AsyaAnimeleri</p> | Donghuaların bulunduğu anime kaynağımız | Aktif |
 
 ## Not
 Yurtdışından eklenti içerikleri yüklenmeyebilir. Eklediğim kaynakların bazıları yurtdışı IP'lerine hizmet vermemektedir. O yüzden bir içeriği yüklerken hata alıyorsanız öncelikle VPN açık mı diye kontrol edin. İyi seyirler.
