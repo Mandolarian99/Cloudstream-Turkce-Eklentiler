@@ -54,7 +54,7 @@ Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için
 | <p align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.sftcdn.net%2Fimages%2Ft_app-icon-m%2Fp%2F9a971945-0ef7-4d2a-8186-64d55d104545%2F2455918921%2Fdizilla-yabanci-dizi-takip-logo&f=1&nofb=1&ipt=34fb9882e81dd6768a4657699b841820a6b61ff0c944ab7719b60ad696ddeb66" alt="Dizilla" width="40" /><br>Dizilla</p> | Popüler yabancı diziler | Aktif |
 | <p align="center"><img src="https://png.pngtree.com/png-clipart/20220823/ourmid/pngtree-turkey-country-flag-pin-icon-png-image_6120061.png" alt="YerelProgramlar" width="40" /><br>YerelProgramlar</p> | Popüler, güncel yerel tv programları | Aktif |
 | <p align="center"><img src="https://www.turksatkablo.com.tr/images/icerik/ssportplus.png" alt="SSportPlus" width="40" /><br>SSportPlus</p> | SSportPlus arşiv ve canlı yayınlar | Aktif değil(hesap sorunları nedeniyle kapalı) |
-| <p align="center"><img src="https://asyawatch.com/assets/favicon/apple-touch-icon.png?v=4" alt="AsyaWatch" width="40" /><br>AsyaWatch</p> | Popüler Asya içerikleri ve diziler | Aktif |
+| <p align="center"><img src="https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/refs/heads/main/assets/asyawatch-logo.png" alt="AsyaWatch" width="40" /><br>AsyaWatch</p> | Popüler Asya içerikleri ve diziler | Aktif |
 | <p align="center"><img src="https://asyaanimeleri.top/wp-content/uploads/2021/08/Asya-animeleri-12-e1629130525708.png" alt="AsyaAnimeleri" width="40" /><br>AsyaAnimeleri</p> | Donghuaların bulunduğu anime kaynağımız | Aktif |
 
 ## Not
