@@ -63,7 +63,7 @@ Planladığım ve yapmak istediğim şeyler:
 2. Kanal 7 dizilerini eklenti haline getirmek istiyorum. Bunun dışında daha yapmadığım kanal varsa onları da eklenti haline getirmek istiyorum.
 
 ## Destek Ol
-Burada destek olabilmeniz için birkaç tane wallet adresi paylaşacağım.
+Tron: TT6fojKK3rvDAWBNAdKFfBAwW4LEeKDEWX
 
 ## Not
 Yurtdışından eklenti içerikleri yüklenmeyebilir. Eklediğim kaynakların bazıları yurtdışı IP'lerine hizmet vermemektedir. O yüzden bir içeriği yüklerken hata alıyorsanız öncelikle VPN açık mı diye kontrol edin. İyi seyirler.
