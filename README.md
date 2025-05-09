@@ -19,6 +19,8 @@ Cloudstream kullanırken en büyük sorun içerik kaynaklarının sistemlerini d
 Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için bile issue açabilirsiniz. Repository'e yıldız atıp, sohbet odamıza katılmayı unutmayınız.
 
 ## Son Güncellemeler
+9 Mayıs - Tabii tekrardan aktive edildi. Artık hesap bilgilerinizi girerek kullanabilirsiniz. Temp mail ile kaydolabilirsiniz.
+
 3 Mayıs - AsyaAnimeleri.top eklentilere eklendi. Artık dongualara daha rahat erişim sağlanabilecek.
 
 2 Mayıs - AsyaWatch.com eklentilere eklendi.
@@ -35,8 +37,6 @@ Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için
 
 22 Nisan - TorrentFilm eklentisi yayınlandı. Artık 4K film izleyebilirsiniz.
 
-21 Nisan - WebDramaTurkey eklentisi yayınlanmıştır. Artık asya içeriklerine ulaşmak kolaylaştı.
-
 ## 📦 Kullanıma Hazır Eklentiler
 | Eklenti | İçerik | Durum |
 |---------|----------|--------|
@@ -46,7 +46,7 @@ Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için
 | <p align="center"><img src="https://www.google.com/s2/favicons?domain=animecix.net&sz=512" alt="AnimeciX" width="40" /><br>AnimeciX</p> | Japon animeleri ve anime filmleri | Aktif |
 |  <p align="center"><img src="https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX" alt="SineWix" width="40" /><br>Sinewix</p>  | Popüler yabancı tv dizileri ve filmler | Aktif |
 | <p align="center"><img src="https://png.pngtree.com/png-clipart/20220823/ourmid/pngtree-turkey-country-flag-pin-icon-png-image_6120061.png" alt="YerelDiziler" width="40" /><br>YerelDiziler</p> | Türkiyede yayınlanan yerel popüler diziler | Aktif |
-| <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Tabii_-_TRT_Logo.png" alt="Tabii" width="40" /><br>Tabii</p> | Trt 1 içerikleri, yerli dizi, film, belgesel, çizgi filmler | Sadece youtube videosu çekip paylaşanlara veriyorum |
+| <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Tabii_-_TRT_Logo.png" alt="Tabii" width="40" /><br>Tabii</p> | Trt 1 içerikleri, yerli dizi, film, belgesel, çizgi filmler | Aktif |
 | <p align="center"><img src="https://cizgivedizi.com/Logo.png" alt="CizgiVeDizi" width="40" /><br>CizgiVeDizi</p> | Popüler çizgi filmler ve yabancı diziler | Aktif |
 | <p align="center"><img src="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" alt="CanliTv" width="40" /><br>CanliTv</p> | HD canlı yayın ulusal kanallar | Aktif |
 | <p align="center"><img src="https://webdramaturkey.org/public/static/logo.webp?v=1.0.19" alt="WebDramaTurkey" width="40" /><br>WebDramaTurkey</p> | Popüler Asya içerikleri, diziler ve programlar | Aktif |
