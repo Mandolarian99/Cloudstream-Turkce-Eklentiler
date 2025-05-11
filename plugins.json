@@ -255,7 +255,7 @@
         "iconUrl": "https://www.turksatkablo.com.tr/images/icerik/ssportplus.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-        "status": 0,
+        "status": 1,
         "language": "tr",
         "authors": [
             "Makoto Tokioki"
@@ -263,7 +263,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 5,
+        "version": 6,
         "internalName": "SSportPlus",
         "description": "SSport+ canlı yayınları ve arşiv içerikleri",
         "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/SSportPlus.cs3",
