@@ -19,6 +19,8 @@ Cloudstream kullanırken en büyük sorun içerik kaynaklarının sistemlerini d
 Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için bile issue açabilirsiniz. Repository'e yıldız atıp, sohbet odamıza katılmayı unutmayınız.
 
 ## Son Güncellemeler
+11 Mayıs - SSport Plus tekrardan aktive edilmiştir.
+
 9 Mayıs - Tabii tekrardan aktive edildi. Artık hesap bilgilerinizi girerek kullanabilirsiniz. Temp mail ile kaydolabilirsiniz.
 
 3 Mayıs - AsyaAnimeleri.top eklentilere eklendi. Artık dongualara daha rahat erişim sağlanabilecek.
@@ -53,7 +55,7 @@ Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için
 | <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/New_qBittorrent_Logo.svg/2048px-New_qBittorrent_Logo.svg.png" alt="TorrentFilm" width="40" /><br>TorrentFilm</p> | Altyazılı gerçek 4K çözünürlükteki filmler | Aktif |
 | <p align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.sftcdn.net%2Fimages%2Ft_app-icon-m%2Fp%2F9a971945-0ef7-4d2a-8186-64d55d104545%2F2455918921%2Fdizilla-yabanci-dizi-takip-logo&f=1&nofb=1&ipt=34fb9882e81dd6768a4657699b841820a6b61ff0c944ab7719b60ad696ddeb66" alt="Dizilla" width="40" /><br>Dizilla</p> | Popüler yabancı diziler | Aktif |
 | <p align="center"><img src="https://png.pngtree.com/png-clipart/20220823/ourmid/pngtree-turkey-country-flag-pin-icon-png-image_6120061.png" alt="YerelProgramlar" width="40" /><br>YerelProgramlar</p> | Popüler, güncel yerel tv programları | Aktif |
-| <p align="center"><img src="https://www.turksatkablo.com.tr/images/icerik/ssportplus.png" alt="SSportPlus" width="40" /><br>SSportPlus</p> | SSportPlus arşiv ve canlı yayınlar | Aktif değil(hesap sorunları nedeniyle kapalı) |
+| <p align="center"><img src="https://www.turksatkablo.com.tr/images/icerik/ssportplus.png" alt="SSportPlus" width="40" /><br>SSportPlus</p> | SSportPlus arşiv ve canlı yayınlar | Aktif |
 | <p align="center"><img src="https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/refs/heads/main/assets/asyawatch-logo.png" alt="AsyaWatch" width="40" /><br>AsyaWatch</p> | Popüler Asya içerikleri ve diziler | Aktif |
 | <p align="center"><img src="https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/blob/main/assets/asyaanimeleri-logo.png?raw=true" alt="AsyaAnimeleri" width="40" /><br>AsyaAnimeleri</p> | Donghuaların bulunduğu anime kaynağımız | Aktif |
 
