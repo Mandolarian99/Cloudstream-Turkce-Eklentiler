@@ -58,6 +58,7 @@ Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için
 | <p align="center"><img src="https://www.turksatkablo.com.tr/images/icerik/ssportplus.png" alt="SSportPlus" width="40" /><br>SSportPlus</p> | SSportPlus arşiv ve canlı yayınlar | Aktif |
 | <p align="center"><img src="https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/refs/heads/main/assets/asyawatch-logo.png" alt="AsyaWatch" width="40" /><br>AsyaWatch</p> | Popüler Asya içerikleri ve diziler | Aktif |
 | <p align="center"><img src="https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/blob/main/assets/asyaanimeleri-logo.png?raw=true" alt="AsyaAnimeleri" width="40" /><br>AsyaAnimeleri</p> | Donghuaların bulunduğu anime kaynağımız | Aktif |
+| <p align="center"><img src="https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/241-101_import.png" alt="AsyaAnimeleri" width="40" /><br>Kanal 7</p> | Hint, Pakistan ve Türk dizileri | Aktif |
 
 ## Yol Haritası
 Planladığım ve yapmak istediğim şeyler:
