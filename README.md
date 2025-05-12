@@ -19,6 +19,8 @@ Cloudstream kullanırken en büyük sorun içerik kaynaklarının sistemlerini d
 Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için bile issue açabilirsiniz. Repository'e yıldız atıp, sohbet odamıza katılmayı unutmayınız.
 
 ## Son Güncellemeler
+12 Mayıs - Kanal 7 eklentisi oluşturulmuştur. Hint, Pakistan ve Türk dizilerine oradan ulaşabilirsiniz.
+
 11 Mayıs - SSport Plus tekrardan aktive edilmiştir.
 
 9 Mayıs - Tabii tekrardan aktive edildi. Artık hesap bilgilerinizi girerek kullanabilirsiniz. Temp mail ile kaydolabilirsiniz.
@@ -36,8 +38,6 @@ Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için
 24 Nisan - YerelProgramlar eklentisi oluşturuldu.
 
 24 Nisan - İçerik eksikliği olduğundan dolayı Dizilla eklentisi yüklenmiştir. (Küçük hataları giderildi)
-
-22 Nisan - TorrentFilm eklentisi yayınlandı. Artık 4K film izleyebilirsiniz.
 
 ## 📦 Kullanıma Hazır Eklentiler
 | Eklenti | İçerik | Durum |
