@@ -306,5 +306,23 @@
         "description": "AsyaAnimeleri.top",
         "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/AsyaAnimeleri.cs3",
         "name": "AsyaAnimeleri"
-    }
+    },
+      {
+        "iconUrl": "https://cricfytv.org/wp-content/uploads/2023/11/Cricfy-TV.webp",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Makoto Tokioki"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "Cricify",
+        "description": "Crucify canl\u0131 yay\u0131nlar\u0131n\u0131 i\u00e7erir, \u015fu an sadece 1 kanal var",
+        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/Cricify.cs3",
+        "name": "Cricify"
+    },
 ]
