@@ -255,7 +255,7 @@
         "iconUrl": "https://www.turksatkablo.com.tr/images/icerik/ssportplus.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-        "status": 0,
+        "status": 1,
         "language": "tr",
         "authors": [
             "Makoto Tokioki"
