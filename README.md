@@ -69,3 +69,5 @@ Tron: TT6fojKK3rvDAWBNAdKFfBAwW4LEeKDEWX
 
 ## Not
 Yurtdışından eklenti içerikleri yüklenmeyebilir. Eklediğim kaynakların bazıları yurtdışı IP'lerine hizmet vermemektedir. O yüzden bir içeriği yüklerken hata alıyorsanız öncelikle VPN açık mı diye kontrol edin. İyi seyirler.
+
+[https://www.youtube.com/watch?v=kf-TvbVARQk](https://www.youtube.com/watch?v=kf-TvbVARQk)
