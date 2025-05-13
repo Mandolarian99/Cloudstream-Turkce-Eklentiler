@@ -63,7 +63,6 @@ Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için
 ## Yol Haritası
 Planladığım ve yapmak istediğim şeyler:
 1. Bütün eklentilerdeki canlı yayınları ve kaynaklarını tek eklenti altında toplamak. Mesela RecTV, İnatTv bunların canlı yayın kısımlarında bulunan kanalları tek çatı altında toplamak istiyorum. Örneğin Trt 1 açmak istediğimde yalnızca 1 tane kanal olacak ve o kanalın altına İnattır, RecTv'dir Trt 1 canlı yayınları kaynak olarak gelecek. Böylece canlı yayınlar için bir tanesinde çalışmayan yayın, diğeri için de denenebilecek. Birden fazla kaynak deneyerek yayınların her zaman açılmasını sağlamak istiyorum.
-2. Kanal 7 dizilerini eklenti haline getirmek istiyorum. Bunun dışında daha yapmadığım kanal varsa onları da eklenti haline getirmek istiyorum.
 
 ## Destek Ol
 Tron: TT6fojKK3rvDAWBNAdKFfBAwW4LEeKDEWX
